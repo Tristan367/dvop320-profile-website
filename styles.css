@@ -6,6 +6,14 @@ body {
   color: #fff;
 }
 
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: gray;
+}
+
 nav {
   display: flex;
   justify-content: space-between;
