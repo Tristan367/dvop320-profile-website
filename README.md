@@ -17,3 +17,5 @@ git push -u origin main
 After confirming the push was successful I went to Settings > Pages and hosted the site with the Github Pages feature
 
 Finally, I created this readme
+
+Finally finally, I updated it with this line of text and pushed my changes
